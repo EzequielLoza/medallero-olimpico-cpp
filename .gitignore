@@ -1,0 +1,13 @@
+# Archivos compilados y librerías
+*.o
+*.obj
+*.exe
+*.out
+
+# Carpetas de compilación
+Debug/
+Release/
+bin/
+build/
+.vscode/
+.idea/
